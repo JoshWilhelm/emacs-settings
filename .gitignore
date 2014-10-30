@@ -33,3 +33,7 @@ site-lisp/package/
 /.smex-items
 /image-dired/
 /eshell
+*~
+.#*
+\#*#
+session.*
